@@ -1,0 +1,12 @@
+[deps]
+DataStructures = "864edb3b-99cc-5e75-8d2d-829cb0a9cfe8"
+Gridap = "56d4f2e9-7ea1-5844-9cf6-b9c51ca7ce8e"
+GridapDistributed = "f9701e48-63b3-45aa-9a63-9bc6c271f355"
+GridapPETSc = "bcdc36c2-0c3e-11ea-095a-c9dadae499f1"
+GridapSolvers = "6d3209ee-5e3c-4db7-a716-942eb12ed534"
+IterativeSolvers = "42fd0dbc-a981-5370-80f2-aaf504508153"
+JLD2 = "033835bb-8acc-5ee8-8aae-3f567f8a3819"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+MPI = "da04e1cc-30fd-572f-bb4f-1f8673147195"
+PETSc = "ace2c81b-2b5f-4b1e-a30d-d662738edfe0"
+PartitionedArrays = "5a9dfac6-5c52-46f7-8278-5e2210713be9"

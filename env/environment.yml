@@ -1,0 +1,13 @@
+name: bioconvection
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13
+  - matplotlib
+  - jupyterlab
+  - numpy
+  - pandas
+  - ipykernel
+  - sympy
+  - scipy
+  - openpyxl
